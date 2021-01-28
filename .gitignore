@@ -1,0 +1,12 @@
+### Java ###
+*.class
+
+### Idea ###
+.idea
+
+### Gradle ###
+.gradle
+/build/
+
+# Package Files #
+*.jar
